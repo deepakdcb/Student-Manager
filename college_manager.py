@@ -64,6 +64,37 @@ def class_print():
   insert code here to print class information out
   """
 
+#FUNCTIONS
+
+def student_print(s):
+  """
+  prints student, primarly used for testing 
+  """
+  print(s.name + "\n" + str(s.year) + "\n" + str(s.grades))
+
+def class_print(c):
+  """
+  insert code here to print class information out
+  """
+  print()
+
+def create_students(slist):
+  """
+  Takes in list of students and information from csv, then creates student objects
+
+  """
+  print()
+
+def fill_clases():
+  """
+  fills classes with student objects
+
+  """
+  print()
+
+
+  
+
 #MAIN
 
 s1 = student("John Smith", 3, ['A', 'B', 'C'])
