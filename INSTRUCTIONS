@@ -1,0 +1,20 @@
+INSTRUCTIONS TO RUN
+
+TO RUN THE PROGRAM, RUN group_project.py
+
+BE SURE TO ALSO DOWNLOAD creation.py AND edit_view.py TO RUN THE PROGRAM IN FULL
+
+In order to run the program successfully, you will need to either provide 4 csv files as arguments (sample files are provided in the repository),  or provide no argument.
+
+Providing 4 csv files as arguments takes you into EDIT/VIEW mode
+
+Providing no arguments takes you into CREATION mode, where you can create your own student manager database
+
+
+proper arguments in the command line look as follows:
+
+EDIT/VIEW MODE:
+python group_project.py -students "Students.csv" -professors "Professors.csv" -degrees "Degrees.csv" -classes "Classes.csv"
+
+CREATION MODE:
+python group_project.py
