@@ -1,4 +1,4 @@
-classID,name,professor,student,grade
+classID,Name,professorID,studentID,grade
 1,211,1,9,A
 1,211,1,10,C
 1,211,1,16,B

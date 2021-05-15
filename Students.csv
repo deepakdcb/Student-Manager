@@ -1,6 +1,6 @@
-ID,Name,year,major
+studentID,Name,year,major
 1,John Doe,2,Information Science
-2,Abraham Lincoln,4,Information Science
+2,John Smith,4,Information Science
 3,Billy,3,Masters in Library Science
 4,Richard Nielson,3,Information Science
 5,Jake Mcafee,1,Masters in Library Science
@@ -28,4 +28,4 @@ ID,Name,year,major
 27,Danielle Smith ,1,Information Science
 28,Grace Johnson ,4,Masters in Library Science
 29,John Law,2,Masters in Library Science
-30,Ron Willy ,4,
+30,Ron Willy ,4, Information Science
